@@ -1,3 +1,3 @@
 # Ansible-Primer
 
-![alt text](Ansible-Primer/ansible_circleA_red.png "Logo Title Text 1")
+![alt text](https://github.com/Shadow-Soft/Ansible-Primer/blob/master/ansible_circleA_red.png "Logo Title Text 1")
